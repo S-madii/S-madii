@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soualmia Mohieddine</h1><br><h3 align="center">A passionate Backend developer from Algeria</h3><br><br>- 🌱 I’m currently learning **Software Engineering**<br><br>- 📝 I regularly share content on instagram [https://www.instagram.com/mohieddine_sam/](https://www.instagram.com/mohieddine_sam/)<br><br>- 💬 Ask me about **Python,Flask,Fastapi...**<br><br>- 📫 How to reach me **mohieddine.soualmia@gmail.com**
+<h1 align="center">Hi 👋, I'm Soualmia Mohieddine</h1><br><h3 align="center">A passionate Backend developer from Algeria</h3><br><br>- 🌱 I’m currently learning **Software Engineering**<br><br>- 📝 I regularly share content on instagram<br><br>- 💬 Ask me about **Python,Flask,Fastapi...**<br><br>- 📫 How to reach me **mohieddine.soualmia@gmail.com**
 
 
 ## 🌐 Socials:
