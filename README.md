@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Soualmia Mohieddine</h1>
-  <p><strong>Backend Engineer · Systems & API Architecture · Algeria</strong></p>
+  <p><strong>Backend Developer · Software Engineering · Algeria</strong></p>
 
   <p>
     <a href="mailto:mohieddine.soualmia@gmail.com">
@@ -18,21 +18,21 @@
 
 ### ⚡ About Me
 
-- 🛠️ Designing and building **asynchronous Python backends**, **transactional PostgreSQL schemas**, and **distributed worker pipelines**
-- 🔒 Focused on **concurrency control**, **cache invalidation**, **payment webhooks (Stripe)**, and **containerized deployments**
-- 🐧 Daily driving **Linux (CachyOS / Arch)**, **Docker**, and **GitHub Actions CI/CD**
+- 🛠️ Building **Python backends** (`FastAPI`, `Flask`), **relational database systems** (`PostgreSQL`, `MySQL`), and **background task queues** (`Redis`, `Celery`)
+- 🔒 Focused on **concurrency control**, **JWT authentication**, **payment webhooks (Stripe)**, and **automated testing (`pytest`)**
+- 🐧 Daily driving **Linux**, **Docker**, and **GitHub Actions CI/CD**
 
 <br />
 
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,linux,git,githubactions,java,c,bash&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,redis,docker,linux,git,github,githubactions,pytest,java,c,bash,html,css,js&perline=9" alt="Tech Stack" />
 </div>
 
 <br />
 
-### 🚀 Featured Architecture
+### 🚀 Projects
 
 <table>
   <tr>
@@ -41,12 +41,12 @@
       &nbsp;
       <img src="https://github.com/S-madii/Ecommerce-Api/actions/workflows/ci.yml/badge.svg" alt="CI" />
       <p>
-        High-concurrency async e-commerce engine built with <strong>FastAPI</strong>, <strong>PostgreSQL 16</strong>, <strong>SQLAlchemy 2.0 (asyncpg)</strong>, <strong>Redis</strong>, <strong>Celery</strong>, and <strong>Stripe</strong>.
+        Production-ready async e-commerce backend built with <strong>FastAPI</strong>, <strong>PostgreSQL 16</strong>, <strong>SQLAlchemy 2.0 (asyncpg)</strong>, <strong>Redis</strong>, <strong>Celery</strong>, and <strong>Stripe</strong>.
       </p>
       <ul>
         <li><strong>Pessimistic Concurrency:</strong> Deadlock-free <code>SELECT ... FOR UPDATE</code> row locking with decoupled external Stripe calls and compensating inventory rollbacks.</li>
         <li><strong>Zero-Trust Payments:</strong> Stripe PaymentIntent lifecycle with raw-byte HMAC-SHA256 webhook verification and idempotency guarantees.</li>
-        <li><strong>Caching & Background Workers:</strong> Non-blocking <code>redis.asyncio</code> Cache-Aside with pattern invalidation and post-commit Celery email tasks.</li>
+        <li><strong>Caching & Background Workers:</strong> Non-blocking <code>redis.asyncio</code> Cache-Aside with pattern invalidation, fail-open resilience, and post-commit Celery email tasks.</li>
       </ul>
     </td>
   </tr>
