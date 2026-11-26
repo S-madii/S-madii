@@ -16,15 +16,15 @@
 
 <br />
 
-### ⚡ About Me
+### About Me
 
-- 🛠️ Building **Python backends** (`FastAPI`, `Flask`), **relational database systems** (`PostgreSQL`, `MySQL`), and **background task queues** (`Redis`, `Celery`)
-- 🔒 Focused on **concurrency control**, **JWT authentication**, **payment webhooks (Stripe)**, and **automated testing (`pytest`)**
-- 🐧 Daily driving **Linux**, **Docker**, and **GitHub Actions CI/CD**
+- Building **Python backends** (`FastAPI`, `Flask`), **relational database systems** (`PostgreSQL`, `MySQL`), and **background task queues** (`Redis`, `Celery`)
+- Focused on **concurrency control**, **JWT authentication**, **payment webhooks (Stripe)**, and **automated testing (`pytest`)**
+- Daily driving **Linux**, **Docker**, and **GitHub Actions CI/CD**
 
 <br />
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,redis,docker,linux,git,github,githubactions,java,c,bash,html,css,js&perline=9" alt="Tech Stack" />
@@ -32,7 +32,7 @@
 
 <br />
 
-### 🚀 Projects
+### Projects
 
 <table>
   <tr>
