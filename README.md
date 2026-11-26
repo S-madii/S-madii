@@ -27,7 +27,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,redis,docker,linux,git,github,githubactions,pytest,java,c,bash,html,css,js&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mysql,redis,docker,linux,git,github,githubactions,mysql,java,c,bash,html,css,js&perline=9" alt="Tech Stack" />
 </div>
 
 <br />
